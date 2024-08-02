@@ -6,3 +6,6 @@
 a=10
 b=9
 c=a+b
+
+//story 131
+int age=20
